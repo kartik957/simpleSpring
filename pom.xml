@@ -29,6 +29,8 @@
 		</dependency>
 	</dependencies>
 
+	
+
 	<build>
 		<plugins>
 			<plugin>
@@ -36,6 +38,9 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<fileName>
+			simplespringproject
+		</fileName>
 	</build>
 
 </project>
